@@ -1,9 +1,4 @@
 name: Clear Fluids
 markdown: redcarpet
 pygments: false
-analytics:
-  provider: google
-  google:
-    tracking_id: 'UA-47773591-1'
-
 
