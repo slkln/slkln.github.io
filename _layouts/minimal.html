@@ -1,11 +1,14 @@
+{% capture lvl %}{{ page.url | append:'index.html' | split:'/' | size }}{% endcapture %}
+{% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
+
 <!DOCTYPE html>
 <html>
   <head>
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
-    <link href="{{ site.url }}/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ site.url }}/css/jumbotron-narrow.css" rel="stylesheet">
+    <link href="{{ relative }}css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ relative }}css/jumbotron-narrow.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -19,8 +22,8 @@
 
       <div class="header">
 	<ul class="nav nav-pills pull-right">
-	  <li><a href="index.html">Home</a></li>
-	  <li><a href="contact.html">Contact us</a></li>
+	  <li><a href="{{ relative }}index.html">Home</a></li>
+	  <li><a href="{{ relative }}contact.html">Contact us</a></li>
 	</ul>
 	<h3>{{ site.name }}</h3>
       </div>
