@@ -3,6 +3,9 @@ layout: minimal
 title: "Salt Chlorinators: A new trend in swimming pool sanitation"
 ---
 
+### Salt Chlorinators: A new trend in swimming pool sanitation
+
+
 There is a new trend in the swimming pool sanitation industry - Salt
 Chlorinators, that you may have heard of. So how does salt water and pool
 maintenance go side by side? Does these systems actually work? Does salt
