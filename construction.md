@@ -17,7 +17,7 @@ by hand. A JCB can easily dig a pool 9m x 4.3m in a day. The excavated
 soil can either be used to fill lower areas of ground or transported
 off site.
 
-![JCB at work](http://www.360excavating.com/BackhoeJCB_Marc_10_21_2008_4_800x600.jpg)
+<img src="http://www.360excavating.com/BackhoeJCB_Marc_10_21_2008_4_800x600.jpg" class="img-responsive" alt="JCB at work">
 
 ### Reinforcement
 
@@ -29,7 +29,7 @@ reinforcement. The plumbing is also stubbed ready to be encased by
 gunite. At this stage a qualified electrical contractor is called in
 to carry out the necessary earth bonding of the steel reinforcement.
 
-![Steel](http://www.precisionswimmingpools.com/Images/ConstPhotos/Plumbing/Lg_01.jpg)
+<img src="http://www.precisionswimmingpools.com/Images/ConstPhotos/Plumbing/Lg_01.jpg" class="img-responsive" alt="Steel">
 
 ### Concreting
 
@@ -37,7 +37,7 @@ The gunite is shot into the pool in a day. It will require a full 30
 days to cure. It is essential that the concrete shell be soaked down
 with water hose twice a day. This ensures the shell cures evenly.
 
-![shotcrete](http://www.reedpumps.com/gunite550384.jpg)
+<img src="http://www.reedpumps.com/gunite550384.jpg" class="img-responsive" alt="shotcrete">
 
 ### Pool Fittings
 
@@ -53,7 +53,7 @@ porous ensuring easy cleaning of water line. Otherwise scum would
 collect on the pool plaster and cause staining. The tile is laid with
 a full bed of cement and then grouted and thoroughly cleaned.
 
-![tiles](http://www.gbpools.co.uk/sitebuildercontent/sitebuilderpictures/fpm13.JPG)
+<img src="http://www.gbpools.co.uk/sitebuildercontent/sitebuilderpictures/fpm13.JPG" class="img-responsive" alt="tiles">
 
 ### Coping & Deck
 
@@ -62,6 +62,6 @@ in the pool. It can come in many number of materials depending on your
 choice of deck material. The deck is laid as soon as the coping is on
 the pool
 
-![deck](http://media.merchantcircle.com/24694321/slate%20pool%20deck%20with%20stamped%20concrete%20coping_full.jpeg)
+<img src="http://media.merchantcircle.com/24694321/slate%20pool%20deck%20with%20stamped%20concrete%20coping_full.jpeg" class="img-responsive" alt="deck">
 
 
