@@ -13,15 +13,13 @@ title: "Salt Chlorinators: A new trend in swimming pool sanitation"
   <p>
     There is a new trend in the swimming pool sanitation industry - Salt
     Chlorinators, that you may have heard of. So how does salt water and pool
-    maintenance go side by side? Does these systems actually work? Does salt
+    maintenance go side by side? Do these systems actually work? Does salt
     actually keep your pool water clear and clean? Read through to find out
     more on Salt Chlorinator systems and how they bring the best out of your
     pool.
   </p>
 </div>
 
-
-----------
 
 
 **HOW IT WORKS?**
@@ -33,9 +31,6 @@ water when it passes through the system.  Using electrolysis, Sodium part
 of Salt is taken apart and what we have left is Chlorine. This Chlorine
 that we get here is very natural and when compared to other by products
 wouldn't cause any issues to skin or eyes. It isn't hazardous.
-
-
-----------
 
 
 **BENEFITS**
@@ -55,9 +50,6 @@ Chemical cost reduces considerably and storing of these hazardous chemicals
 can be avoided.
 
 
-----------
-
-
 **DRAWBACKS?**
 
 The initial investment is the only drawback that you would come across if
@@ -68,10 +60,6 @@ satisfied bathers. It does help you reducing your time and stress that you
 would have otherwise spent on dealing with pool balance and chemistry.
 
 
-
-----------
-
-
 **WOULD THE POOL BE SALTY?**
 
 No, the water doesn't taste like salt, but the salinity levels are very low
@@ -80,8 +68,6 @@ are usually in the 3000-4000 ppm range, much less than the ocean, which has
 salt levels of around 35,000 parts per million (ppm). I would certainly not
 consider the salt levels to be uncomfortable nor distracting.
 
-
-----------
 
 **IS IT CORROSSIVE?**
 
@@ -94,16 +80,12 @@ Salt is a corrosive element but not at the concentration levels found in
 pools. Extremely high levels of chlorine does cause corrosion and damage to
 equipment, so pool balance needs to be maintained at all time.
 
-----------
-
 **NO POOL MAINTENANCE?**
 
 Another misconception here. It is very important to note that using Salt
 Chlorinators doesn't make your pool maintenance free. Pool owners should
 maintain proper chemical balance within the standards to have a healthy
 pool.
-
-----------
 
 
 **ARE THEY FOR REAL?**
@@ -118,9 +100,6 @@ Once you see the advantages and how it actually fares with traditional
 chlorinated pools, you would realise these systems doesn't face any
 competition at all. Experts are of the opinion that in the years to come,
 more pool owners would adopt this system.
-
-
-----------
 
 
 **VARIANTS?**
